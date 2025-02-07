@@ -1,21 +1,10 @@
 # R-and-SQL
 Implementation of R and SQL
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Assignment 5 - Ananya</title>
-    <style>
-        body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; padding: 20px; }
-        h1, h2 { color: #333; }
-        pre { background: #f4f4f4; padding: 10px; border-radius: 5px; }
-    </style>
-</head>
 <body>
     <h1>Assignment 5</h1>
     <h2>Ananya</h2>
     <h3>20013004</h3>
+<body></body>
 
     <h2>1. Querying Multiple Tables (50pt)</h2>
 
@@ -53,4 +42,3 @@ Implementation of R and SQL
     <p>Stored all the data in a query and counted the number of rows in the result.</p>
     <p>Printed the result.</p>
 </body>
-</html>
