@@ -1,10 +1,6 @@
 # R-and-SQL
 Implementation of R and SQL
-<body>
-    <h1>Assignment 5</h1>
-    <h2>Ananya</h2>
-    <h3>20013004</h3>
-<body></body>
+
 
 <h2>1. Querying Multiple Tables </h2>
 
