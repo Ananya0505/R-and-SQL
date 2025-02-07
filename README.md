@@ -6,7 +6,7 @@ Implementation of R and SQL
     <h3>20013004</h3>
 <body></body>
 
-<h2>1. Querying Multiple Tables (50pt)</h2>
+<h2>1. Querying Multiple Tables </h2>
 
 <h3>1. Import data from banks sec 2002 and banks al 2002. Delete duplicate rows from banks sec 2002</h3>
     <p>Used pgAdmin to import data from these tables into your PostgreSQL database and delete rows using a CTE table and delete command.</p>
@@ -29,7 +29,7 @@ Implementation of R and SQL
  <h3>6. Export the joint table (banks total) to a CSV file.</h3>
     <p>Using the built-in option to extract the CSV file of the Bank_total.</p>
 
- <h2>2. PostgreSQL API in R (50pt)</h2>
+ <h2>2. PostgreSQL API in R </h2>
 
  <h3>1. Make a connection to your local PostgreSQL database using API.</h3>
     
