@@ -1,4 +1,4 @@
-# R-and-SQL
+# Implementation of R with PostgreSQL API
 Implementation of R and SQL
 
 
